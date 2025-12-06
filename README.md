@@ -27,3 +27,7 @@
 
   ### Crow-ler.exe
    <img src="https://github.com/berlaseep/Crow-ler-crawler-deep-web-navigator/blob/main/images/programa.png" alt="imagen programa" width="100%"/>
+
+
+
+   # IF YOU SEE A ERROR IN THE CODE PLEASE TEXT ME TO ELESPEJO27@PROTON.ME
