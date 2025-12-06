@@ -1,5 +1,5 @@
 #  CROW-LER DEEP WEB CRAWLER NAVIGATOR
-  <img src="https://github.com/berlaseep/Crow-ler-crawler-deep-web-navigator/blob/main/images/crow-ler.png" alt="imagen programa" width="100%"/>
+  <img src="https://github.com/berlaseep/Crow-ler-crawler-deep-web-navigator/blob/main/images/crow-ler image logo.png" alt="imagen programa" width="100%"/>
    
 
   ### HOW INSTALL
